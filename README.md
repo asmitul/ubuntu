@@ -1,56 +1,6 @@
 # ubuntu 22.04 LTS
-1. [install ubuntu](#install-ubuntu)
-2. bbb
-
-.
+1. [After installed Ubuntu](#after-install-ubuntu)
 
 
+### After installed Ubuntu
 
-.
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
-
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
-
-## install ubuntu
-
-this is xxx
-
-## bbb
-
-this is bbb
